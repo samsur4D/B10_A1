@@ -66,3 +66,93 @@ html{
     color: white;
     
 }
+.middle-section{
+  margin-top: 60px;
+  background-color: white;
+  justify-content: center;
+}
+
+.middle-two{
+  background-color: #dfe4ea;
+  margin: 20px 300px;
+  padding: 20px 20px;
+}
+.why-web-dev{
+  padding-top: 2rem;
+  text-align: center;
+}
+.why-web-dev-heading{
+  font-size: 2rem;
+  
+}
+
+.card-one{
+  align-items: center;
+  border-color: black;
+  padding: 30px 15px;
+  border-radius: 2rem;
+  margin: 3rem 20rem;
+  background-color: white;
+  justify-content: center;
+  display: flex;
+}
+
+.inspiration{
+   margin-top: 100px;
+   justify-content: center;
+   text-align: center;
+}
+
+.jhankar-pic{
+ 
+  padding: 10px 2px;
+  margin-top: 4rem;
+  text-align: center;
+  align-items: center;
+   justify-content: center;
+}
+
+.jhankar{
+    padding: 20PX 20PX;
+    border-radius: 50PX;
+    background-color: cornsilk;
+    border: black;
+    border-width: 2PX;
+    border-style: dashed;
+}
+
+.html-css-javascript{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.html{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: blue;
+  justify-content: left;
+  align-items: flex-start;
+}
+
+.html-heading{
+   justify-content: left;
+}
+
+.last-cards{
+   justify-content: center;
+   text-align: center;
+}
+
+.react{
+  margin: 30px 500px;
+  padding: 20px 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: black;
+  border-width: 2PX;
+  border-style: dashed;
+}
